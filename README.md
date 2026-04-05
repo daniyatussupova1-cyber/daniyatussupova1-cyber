@@ -6,7 +6,6 @@ Astana-based Backend Engineer. Specializing in scalable microservices and DDD. E
 </p>
 
 ### 👨🏻‍💻 About Me
-- 🔭 Currently building **quic-tensor-router** (a PoC for a decentralized AI system).
 - 💼 Actively looking for opportunities as a Go Backend Developer.
 
 ### 🛠️ Tech Stack
