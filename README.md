@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋 I'm Daniya</h1>
+<h3 align="center">Backend Developer | Go | Distributed Systems</h3>
 
-<!--
-**daniyatussupova1-cyber/daniyatussupova1-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Astana-based Backend Engineer. Specializing in scalable microservices and DDD. Enthusiast of system programming and clean architectural patterns.
+</p>
 
-Here are some ideas to get you started:
+### 👨🏻‍💻 About Me
+- 🔭 Currently building **quic-tensor-router** (a PoC for a decentralized AI system).
+- 💼 Actively looking for opportunities as a Go Backend Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,docker,postgres,redis,rabbitmq" alt="Tech Stack" />
+  </a>
+</p>
+
+
+
+<br>
+
